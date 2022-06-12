@@ -15,6 +15,13 @@ header a {
   color: #ffffff;
   font-weight: bold;
   text-decoration: none;
+  font-size: 40px;
+  justify-content: center;
+  display: inline;
+}
+header img {
+  display: inline;
+  position: absolute;
 }
 
 main {
