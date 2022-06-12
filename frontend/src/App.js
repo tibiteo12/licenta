@@ -8,7 +8,13 @@ function App() {
     <BrowserRouter>
       <div>
         <header>
-          <Link to='/'>GetFit</Link>
+          <Link to='/'>
+            GetFit
+            <img
+              src='https://img.icons8.com/ios/50/undefined/gum-.png'
+              alt='icon'
+            />
+          </Link>
         </header>
         <main>
           <Routes>
