@@ -7,3 +7,4 @@
 3. git repo
 4. lista produse
 5. routing
+6. node server
