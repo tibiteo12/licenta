@@ -11,3 +11,6 @@
 7. fetch products from backend
 8. manage state by reducer hook
 9. bootstrap
+10. componenta produs
+11. produs screen
+12.
