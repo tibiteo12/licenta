@@ -13,4 +13,4 @@
 9. bootstrap
 10. componenta produs
 11. produs screen
-12.
+12. ecran loading si mesaj pentru produs negasit
