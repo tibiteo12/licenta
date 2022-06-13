@@ -9,6 +9,7 @@ const data = {
       countInStock: 10,
       brand: "GymBeam",
       numberOfReviews: 5,
+      rating: 4,
       description: "Bandă Elastică de înaltă calitate.",
     },
     {
@@ -20,6 +21,7 @@ const data = {
       countInStock: 20,
       brand: "GymBeam",
       numberOfReviews: 7,
+      rating: 4.5,
       description: "Bandaj pentru Încheieturi de inaltă calitate.",
     },
     {
@@ -31,6 +33,7 @@ const data = {
       countInStock: 35,
       brand: "GymBeam",
       numberOfReviews: 12,
+      rating: 5,
       description: "Shaker de calitate superioară.",
     },
   ],

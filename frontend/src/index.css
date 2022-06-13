@@ -8,12 +8,19 @@ body {
 }
 
 header {
-  background-color: #107ab0;
+  background-image: url(D:\licenta\frontend\public\images\header.png);
+  width: 100%;
 }
 a {
   font-size: 20px;
 }
 
+.btn-primary {
+  background-color: #107ab0;
+}
+.rating span {
+  color: #ffc000;
+}
 .products {
   display: flex;
   flex-wrap: wrap;

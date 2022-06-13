@@ -14,11 +14,11 @@ function App() {
             <Container>
               <LinkContainer to='/'>
                 <Navbar.Brand>
-                  GetFit
                   <img
-                    src='https://img.icons8.com/ios/50/undefined/gum-.png'
+                    src='https://img.icons8.com/ios-filled/50/undefined/fit.png'
                     alt='icon'
                   />
+                  GetFit
                 </Navbar.Brand>
               </LinkContainer>
             </Container>
