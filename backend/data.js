@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: "1",
       name: "Bandă elastică",
       slug: "banda-elastica",
       category: "Antrenament",
@@ -13,6 +14,7 @@ const data = {
       description: "Bandă Elastică de înaltă calitate.",
     },
     {
+      _id: "2",
       name: "Bandaj pentru Încheieturi",
       slug: "bandaj-incheieturi",
       category: "Antrenament",
@@ -25,6 +27,7 @@ const data = {
       description: "Bandaj pentru Încheieturi de inaltă calitate.",
     },
     {
+      _id: "3",
       name: "Shaker Portocaliu",
       slug: "shaker-portocaliu",
       category: "Alimentație și nutriție",
