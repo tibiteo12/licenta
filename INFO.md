@@ -14,3 +14,4 @@
 10. componenta produs
 11. produs screen
 12. ecran loading si mesaj pentru produs negasit
+13. adauga in cos
